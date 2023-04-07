@@ -1,23 +1,19 @@
 .sidenav {
-    background-color: #3F51B5;
+    background-color: #a97b1f;
     width: 180px;
 }
 
-.sidenav a {
-    display: flex;
-    align-items: center;
-    color: #fff;
-}
-  
 .sidenav i {
-    color: #fff;
+    color: #151515;
 }
-  
-
 .nav-text {
     margin-left: 10px;
     font-size: 16px;
     font-weight: 500;
     color: white;
-  }
+}
+.content {
+    padding: 16px;
+    background-color: #fff;
+}
 
